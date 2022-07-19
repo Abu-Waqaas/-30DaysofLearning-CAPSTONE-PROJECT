@@ -2,7 +2,7 @@
 #30DaysofLearning CAPSTONE PROJECT
 
 ### PROJECT OBJECTIVE
-There is no essence of learning if it will not be put into practice, so this is what prompted this project. This task was given to us as our Capstone project at #30daysoflearning class, which was organised by some Microsoft employees to assist the Nigeria students, who have been at home since February due to the industrial strike of their institutions staff (ASUU, SSANU and NASU).
+There is no essence to learning if it will not be put into practice, so this is what prompted this project. This task was given to us as our Capstone project at #30daysoflearning class, which was organised by some Microsoft employees to assist the Nigeria students, who have been at home since February due to the industrial strike of their institutions staff (ASUU, SSANU and NASU).
 We were given two dataset of Airlines to work on either of them (Delayed flights and Crash flights) and bring out the underlying facts of those data.
 I accessed the two datasets, explained below is the description and analysis of the Airline Delay Datasets.
 The metrics derived from the analysis include: 
@@ -85,7 +85,7 @@ DASHBOARD
 
 
 ### RECOMMENDATIONS
-Based on the analysis, it shows that despite WN airline being the airlines with the highest record of delay, people still patronize them more and for this reason, WN airline will be highly recommend because people used them most, this might be due to their high level of customer relations or the way to handle their customers baggage or in-flight conveniency
-Although, it will be highly recommended to use another airline in case of an emergency journey. 
-And the record shows that, there is lesser chance of one’s flight being delay on Fridays than any other day, which means one’s journey time can be predicted and have accurate result on this day, than any other days. 
+    Based on the analysis, it shows that despite WN airline being the airlines with the highest record of delay, people still patronize them more and for this reason, WN airline will be highly recommend because people used them most, this might be due to their high level of customer relations or the way to handle their customers baggage or in-flight conveniency
+    Although, it will be highly recommended to use another airline in case of an emergency journey. 
+    And the record shows that, there is lesser chance of one’s flight being delay on Fridays than any other day, which means one’s journey time can be predicted and have accurate result on this day, than any other days. 
 
