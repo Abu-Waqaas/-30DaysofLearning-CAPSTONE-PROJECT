@@ -85,7 +85,7 @@ DASHBOARD
 
 
 ### RECOMMENDATIONS
-    Based on the analysis, it shows that despite WN airline being the airlines with the highest record of delay, people still patronize them more and for this reason, WN airline will be highly recommend because people used them most, this might be due to their high level of customer relations or the way to handle their customers baggage or in-flight conveniency
+    Based on the analysis, it shows that despite WN airline being the airlines with the highest record of delay, people still patronize them more and for this reason, WN airline will be highly recommend because people used them most, this might be due to their high level of customer relations or the way to handle their customers baggage or in-flight conveniency.
     Although, it will be highly recommended to use another airline in case of an emergency journey. 
-    And the record shows that, there is lesser chance of one’s flight being delay on Fridays than any other day, which means one’s journey time can be predicted and have accurate result on this day, than any other days. 
+    And the record shows that, there is more chance of one’s flight taking-off at the exact time on Fridays, than any other day, which means one’s journey time can be predicted and have accurate result on this day, than any other days. 
 
